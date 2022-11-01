@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="500" height="310" src="https://user-images.githubusercontent.com/113317992/199310361-f4d3bbbd-59d4-4bcd-b27a-f31d142e188d.gif">
+</p>
+
 ## 👋 Hello there!
 
 You can call me Apricot, Cosma, or *Apricosma!* 
