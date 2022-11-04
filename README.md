@@ -17,6 +17,8 @@ I'm a long way from most of these right now, but I hope to get there in the futu
 
 My programming languages/platforms/frameworks are listed below, and I will be learning C#, React, .Net, SQL, LINQ, and ASP.Net throughout the year. I am 
 planning on learning Python and machine learning on my own time as side projects, and I'm interested in building automation/bots for various applications.
+
+You can find a link to my work-in-progress main website [-here-](https://apricosma.github.io)
 <br></br>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
