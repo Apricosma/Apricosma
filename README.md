@@ -1,7 +1,3 @@
-<!--- <p align="center">
-  <img width="960" height="540" src="https://user-images.githubusercontent.com/113317992/199318316-ad7b3cca-cd31-45a1-a25a-1aaadea0b824.jpg">
-</p> --->
-
 <p align="center">
   <img width="720" height="405" src="https://user-images.githubusercontent.com/113317992/199318660-d6ffefe4-f3e7-4280-8bf0-731ea14b79aa.jpg">
 </p>
@@ -10,17 +6,28 @@
 
 You can call me Apricot, Cosma, or *Apricosma!* 
 
-I'm a full-stack developer currently studying software engineering at [MITT](https://mitt.ca/)
+I'm a full-stack developer hailing from Canada, and currently studying software engineering at [MITT](https://mitt.ca/). Expected graduation
+is june-july 2023. I look forwards to learning improving my development skills every day to eventually enter the virtual reality industry.
+I'm a long way from most of these right now, but I hope to get there in the future with hard work and passion.
+
+My programming languages/platforms/frameworks are listed below, and I will be learning C#, React, .Net, SQL, LINQ, and ASP.Net throughout the year.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
 My interests include, but aren't limited to:
 - 👓 Virtual Reality
 - 🤖 Artifical Intelligence
 - 🧠 Machine Learning
 - 🎨 Design 
+- 🎮 Gaming
+- 🎧 Electronic Music 
 
-I'm a long way from most of these right now, but I hope to get there in the future with hard work and passion
 
-Please find my current projects listed below
+Please find my current projects listed below, feedback is HIGHLY appreciated! (bully me)
 <!---
 Apricosma/Apricosma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
