@@ -1,6 +1,11 @@
-<p align="center">
+<!-- <p align="center">
   <img width="720" height="405" src="https://user-images.githubusercontent.com/113317992/199318660-d6ffefe4-f3e7-4280-8bf0-731ea14b79aa.jpg">
+</p> -->
+
+<p align="center">
+  <img src="https://i.imgur.com/0hPvvAt.png">
 </p>
+
 
 ## 👋 Hello there!
 
@@ -12,6 +17,7 @@ I'm a long way from most of these right now, but I hope to get there in the futu
 
 My programming languages/platforms/frameworks are listed below, and I will be learning C#, React, .Net, SQL, LINQ, and ASP.Net throughout the year. I am 
 planning on learning Python and machine learning on my own time as side projects, and I'm interested in building automation/bots for various applications.
+<br></br>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,9 +31,17 @@ My interests include, but aren't limited to:
 - 🧠 Machine Learning
 - 🎨 Design 
 - 🎮 Gaming
-- 🎧 Electronic Music 
+- 🎧 Electronic Music
+<br></br> 
 
-
+<a href="https://github.com/Apricosma">
+  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=Apricosma&show_icons=true&theme=radical" alt="My GitHub stats" />
+</a>
+<a href="https://github.com/Apricosma">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apricosma&theme=radical" alt="My 
+  GitHub stats"/>
+</a>
+<br></br>
 Please find my current projects listed below, feedback is HIGHLY appreciated! (bully me)
 <!---
 Apricosma/Apricosma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
