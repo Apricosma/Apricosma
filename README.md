@@ -39,13 +39,8 @@ My interests include, but aren't limited to:
 - 🎧 Electronic Music
 <br></br> 
 
-<a href="https://github.com/Apricosma">
-  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=Apricosma&show_icons=true&theme=radical" alt="My GitHub stats" />
-</a>
-<a href="https://github.com/Apricosma">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apricosma&theme=radical" alt="My 
-  GitHub stats"/>
-</a>
+![Stats](./profile/stats.svg)
+![Top Lang](./profile/top-langs.svg)
 <br></br>
 Please find my current projects listed below, feedback is HIGHLY appreciated! (bully me)
 <!---
