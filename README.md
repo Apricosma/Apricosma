@@ -11,12 +11,10 @@
 
 You can call me Apricot, Cosma, or *Apricosma!* 
 
-I'm a full-stack developer hailing from Canada, and currently studying software engineering at [MITT](https://mitt.ca/). Expected graduation
-is june-july 2023. I look forwards to learning improving my development skills every day to eventually enter the virtual reality industry.
+I'm a full-stack developer hailing from Canada, and graduated July 2023 from the Software Developer course at MITT, with a 4.0 GPA. I look forwards to learning improving my development skills every day to eventually enter the virtual reality industry.
 I'm a long way from most of these right now, but I hope to get there in the future with hard work and passion.
 
-My programming languages/platforms/frameworks are listed below, and I will be learning C#, React, .Net, SQL, LINQ, and ASP.Net throughout the year. I am 
-planning on learning Python and machine learning on my own time as side projects, and I'm interested in building automation/bots for various applications.
+My current most comfortable programming languages/platforms/frameworks are listed below, though isn't an exhaustive list of what I know. I love learning and applying new languages. 
 
 You can find a link to my work-in-progress main website [-here-](https://apricosma.github.io)
 <br></br>
@@ -29,6 +27,7 @@ You can find a link to my work-in-progress main website [-here-](https://apricos
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![BASH](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 My interests include, but aren't limited to:
 - 👓 Virtual Reality
