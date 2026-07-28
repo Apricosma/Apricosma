@@ -38,9 +38,26 @@ My interests include, but aren't limited to:
 - 🎧 Electronic Music
 <br></br> 
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Apricosma&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=material-palenight)](https://github-stats-extended.vercel.app/api?username=Apricosma&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=material-palenight)
+<p align="left">
+  <a
+    href="https://github-stats-extended.vercel.app/api?username=Apricosma&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=material-palenight"
+  >
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=Apricosma&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=material-palenight"
+      height="180"
+    />
+  </a>
+  <a
+    href="https://github-stats-extended.vercel.app/api/top-langs?username=Apricosma&langs_count=4&theme=material-palenight"
+  >
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=Apricosma&langs_count=4&theme=material-palenight"
+      height="180"
+    />
+  </a>
+</p>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Apricosma&langs_count=4&theme=material-palenight)](https://github-stats-extended.vercel.app/api/top-langs?username=Apricosma&langs_count=4&theme=material-palenight)
+
 <br></br>
 Please find my current projects listed below, feedback is HIGHLY appreciated! (bully me)
 <!---
