@@ -38,8 +38,9 @@ My interests include, but aren't limited to:
 - 🎧 Electronic Music
 <br></br> 
 
-![Stats](./profile/stats.svg)
-![Top Lang](./profile/top-langs.svg)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Apricosma&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=material-palenight)](https://github-stats-extended.vercel.app/api?username=Apricosma&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=material-palenight)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Apricosma&langs_count=4&theme=material-palenight)](https://github-stats-extended.vercel.app/api/top-langs?username=Apricosma&langs_count=4&theme=material-palenight)
 <br></br>
 Please find my current projects listed below, feedback is HIGHLY appreciated! (bully me)
 <!---
